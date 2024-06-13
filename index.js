@@ -1,2 +1,2 @@
 console.log('My application');
-console.log('ну ты француз бомбомбом');
+console.log('ну ты француз бомбомбом111');
